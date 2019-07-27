@@ -3,7 +3,7 @@
 This project imlements the following tasks in the project: 
 
 1. Vehicle counting
-2. Lane detection
+2. Lane segmentation
 3. Lane change detection
 4. speed estimation
 5. Dumps all these details into a CSV file
