@@ -1,5 +1,7 @@
 # vehicle-counting-and-speed-estimation-yolo-sort-python
 
+This project uses YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
+
 This project imlements the following tasks in the project: 
 
 1. Vehicle counting
@@ -10,11 +12,13 @@ This project imlements the following tasks in the project:
 
 ![SCREENSHOT](https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python/blob/master/Screenshot1.png)
 
+link to the original video: https://youtu.be/PSf09R3D7Lo
+
 link to the ouput video:https://drive.google.com/open?id=1Zci9i13Voo9KMhJQyygoZ-kYAVFiaoVQ
 
 Note that there are 4 locations in the video and so the code(4 IFs), you can delete 3 and edit the first one according to your need.
 
-This project uses YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
+
 
 # To run the project:
 
