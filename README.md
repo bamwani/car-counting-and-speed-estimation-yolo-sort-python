@@ -29,14 +29,20 @@ $ git clone https://github.com/bamwani/car-counting-and-speed-estimation-yolo-so
 
 2. To install required dependencies, run:
 ```
-$ pip install -r requirements.txt
+$ cd car-counting-and-speed-estimation-yolo-sort-python/
+$ pip3 install -r requirements.txt
 ```
 
-3. Make sure you change the line of detection and lane segmentation according to your video and fine tune the threshold and confidence for YOLO model
-
-4. Run 
+3. Download yolo weights file by:
 ```
-main.py -input /path/to/video/file.avi -output /path/for/output/video/file.avi -yolo /path/to/YOLO/directory/
+$ bash download_weights
+```  
+
+4. Make sure you change the line of detection and lane segmentation according to your video and fine tune the threshold and confidence for YOLO model
+
+5. Run 
+```
+$ Python3 main.py -input /path/to/video/file.avi -output /path/for/output/video/file.avi -yolo /path/to/YOLO/directory/
 ``` 
 
 
