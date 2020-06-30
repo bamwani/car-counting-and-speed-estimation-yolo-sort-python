@@ -1,11 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -24,7 +16,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. Ubuntu 16.04]
  - Python and pip version
 
 **Additional context**
