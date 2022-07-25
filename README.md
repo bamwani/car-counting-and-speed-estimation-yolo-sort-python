@@ -12,9 +12,9 @@ This project imlements the following tasks in the project:
 
 ![SCREENSHOT](https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python/blob/master/Screenshot1.png)
 
-link to the original video: https://youtu.be/PSf09R3D7Lo
+link to the original video: ~~https://youtu.be/PSf09R3D7Lo~~ | [updated gdrive link](https://drive.google.com/file/d/1G0e-Jz8b24az4Dwpyus9ln0c3jfaYt2V/view?usp=sharing)
 
-link to the ouput video:https://drive.google.com/open?id=1Zci9i13Voo9KMhJQyygoZ-kYAVFiaoVQ
+link to the ouput video: [gdrive link](https://drive.google.com/open?id=1Zci9i13Voo9KMhJQyygoZ-kYAVFiaoVQ)
 
 Note that there are 4 locations in the video and so the code(4 IFs), you can delete 3 and edit the first one according to your need.
 
